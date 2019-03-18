@@ -6,6 +6,6 @@ This repository contains the implementations of various basic machine learning a
 
 ## Programs
 
-* [Linear Regression](https://github.com/altruistcoder/Machine-Learning-Implementations/blob/master/Linear Regression/linear_regression.ipynb):
+* [Linear Regression](https://github.com/altruistcoder/Machine-Learning-Implementations/blob/master/Linear%20Regression/linear_regression.ipynb):
 
   Python Code for very basic machine learning algorithm called Linear Regression.
