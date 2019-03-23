@@ -18,3 +18,6 @@ This repository contains the implementations of various basic machine learning a
 
   Python Code for performing the task of clustering using K-Nearest Neighbours (KNN).
 
+* [Logistic Regression](https://github.com/altruistcoder/Machine-Learning-Implementations/blob/master/Linear%20Regression/logistic_regression.ipynb):
+
+  Python Code for a very popular regression algorithm known as Logistic Regression.
