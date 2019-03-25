@@ -20,4 +20,4 @@ This repository contains the implementations of various basic machine learning a
 
 * [Logistic Regression](https://github.com/altruistcoder/Machine-Learning-Implementations/blob/master/Logistic%20Regression/logistic_regression.ipynb):
 
-  Python Code for a very popular regression algorithm known as Logistic Regression.
+  Python Code for another basic regression algorithm known as Logistic Regression.
