@@ -26,3 +26,7 @@ This repository contains the implementations of various basic machine learning a
 
   Python Code for Naive Bayes algorithm.
 
+* [Support Vector Machines](https://github.com/altruistcoder/Machine-Learning-Implementations/blob/master/Support%20Vector%20Machines/SVM.ipynb):
+
+  Python Code for implementing Support Vector Machines (SVM) algorithm.
+
