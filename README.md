@@ -30,3 +30,8 @@ This repository contains the implementations of various basic machine learning a
 
   Python Code for implementing Support Vector Machines (SVM) algorithm.
 
+* [Decision Trees](https://github.com/altruistcoder/Machine-Learning-Implementations/blob/master/Decision%20Trees/DecisionTree.ipynb):
+
+  Python Code for implementing Decision Tree algorithm.
+
+
