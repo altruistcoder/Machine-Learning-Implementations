@@ -38,3 +38,7 @@ This repository contains the implementations of various basic machine learning a
 
   Python Code for performing the task of Feature Extraction using Principal Component Analysis algorithm.
 
+* [Principal Component Analysis (PCA) on MNIST Dataset](https://github.com/altruistcoder/Machine-Learning-Implementations/blob/master/Principal%20Component%20Analysis/PCA_MNIST.ipynb):
+
+  Python Code for implementing Principal Component Analysis algorithm on MNIST Dataset.
+
