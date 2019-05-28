@@ -34,4 +34,7 @@ This repository contains the implementations of various basic machine learning a
 
   Python Code for implementing Decision Tree algorithm.
 
+* [Principal Component Analysis (PCA)](https://github.com/altruistcoder/Machine-Learning-Implementations/blob/master/Principal%20Component%20Analysis/PCA.ipynb):
+
+  Python Code for performing the task of Feature Extraction using Principal Component Analysis algorithm.
 
