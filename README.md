@@ -42,3 +42,7 @@ This repository contains the implementations of various basic machine learning a
 
   Python Code for implementing Principal Component Analysis algorithm on MNIST Dataset.
 
+* [Anomaly Detector](https://github.com/altruistcoder/Machine-Learning-Implementations/blob/master/Anomaly%20Detector/AnomalyDetector.ipynb):
+
+  Python Code for finding the anomalies in a set of data using machine learning.
+
